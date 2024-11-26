@@ -1,0 +1,88 @@
+/* Ejercicio 1 */
+#b1{
+    background-color: #585e6f;
+    color: yellow;
+    text-align: end;
+}
+h1#h11{
+    text-align: center;
+    color: crimson;
+    margin: 100px 100px 100px 100px;
+}
+
+/* Ejercicio 2 */
+body#b2{
+    font-family: "Poppins", sans-serif;
+    background-color: aliceblue;
+}
+h1#h12{
+    font-weight: 900;
+    font-style: normal;
+}
+
+/* Ejercicio 3 */
+ul{
+    list-style: none;
+}
+div.app{
+    list-style: none;
+    font-family: "Poppins", sans-serif;
+    text-align: center;
+}
+div#facebook{
+    background-color: blue;
+    color: aliceblue;
+}
+div#whatsapp{
+    background-color: green;
+}
+div#youtube{
+    background-color: red;
+    color: aliceblue;
+}
+div#instagram{
+    background-color: rosybrown;
+}
+div#tiktok{
+    background-color: black;
+    color: aliceblue;
+}
+
+/* Ejercicio 4 */
+body#b4{
+    font: 1em sans-serif;
+    font-size: 20px;
+}
+ul.estados{
+    margin-bottom: 50px;
+    background-color: aquamarine;
+}
+ol.receta{
+    margin-bottom: 50px;
+    background-color: rgb(71, 191, 193);
+}
+ol.carreras{
+    margin-bottom: 50px;
+    background-color: rgb(31, 215, 99);
+}
+
+/* Ejercicio 5 */
+#b5{background-color: black;
+    color: blueviolet;
+    font-family: "Edu AU VIC WA NT Arrows", serif;
+}
+h1#h15{
+    color: aqua;
+}
+
+/* Ejercicio 6 */
+#b6{
+    font-family: "Open Sans", serif;
+    background-color: #585e6f;
+}
+div#Biografia{
+    text-align: center;
+}
+a#a5{
+    color: aliceblue;
+}
